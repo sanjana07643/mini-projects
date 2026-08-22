@@ -1,20 +1,6 @@
-HTML & CSS Practice
+ A collection of my HTML, CSS & JavaScript mini projects — built to practice front-end development, experiment with UI ideas, and strengthen my web development skills.
 
-This repository contains my HTML and CSS practice projects.
+Each project focuses on a different concept, from responsive layouts and animations to interactive JavaScript features.
 
-What I'm Learning
-
-- HTML Basics
-- CSS Basics
-- Forms
-- Tables
-- Flexbox
-- Grid
-- Responsive Design
-- Animations
-
-Purpose
-
-I created this repository to improve my frontend development skills by building small projects and practicing concepts regularly.
-
-More projects will be added as I continue learning.
+💻 Built with HTML • CSS • JavaScript
+📚 Learning by building, one mini project at a time.
